@@ -11,9 +11,7 @@ Tecnologias:
 ![JAVASCRPIT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-mongoDB-yellowgreen?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white)
 ![poo](https://img.shields.io/badge/-POO-orange?style=for-the-badge&logo=poo&logoColor=white)
 
 Bibliotecas/Frameworks:
