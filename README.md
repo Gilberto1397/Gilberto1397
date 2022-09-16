@@ -10,7 +10,7 @@ Tecnologias:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRPIT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white)
 ![poo](https://img.shields.io/badge/-POO-orange?style=for-the-badge&logo=poo&logoColor=white)
 
