@@ -16,6 +16,7 @@ Tecnologias:
 
 Bibliotecas/Frameworks:
 
+![Sass](https://img.shields.io/badge/-Sass-blue?style=for-the-badge&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jquery](https://img.shields.io/badge/-Jquery-informational?style=for-the-badge&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
