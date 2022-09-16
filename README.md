@@ -20,14 +20,14 @@ Bibliotecas/Frameworks:
 ![Jquery](https://img.shields.io/badge/-Jquery-informational?style=for-the-badge&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
 ![Eloquent ORM](https://img.shields.io/badge/-Eloquent%20ORM-red?style=for-the-badge&logo=eloquent-orm&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-yellowgreen?style=for-the-badge&logo=vue&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-yellowgreen?style=for-the-badge&logo=vue.js&logoColor=white)
 
 
 Ferramentas:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=5849BE)
+![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 	
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
