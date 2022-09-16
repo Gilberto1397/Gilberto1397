@@ -2,7 +2,7 @@
 
 Sobre mim:
 
-Sou estudante de Desenvolvimento Web na Trybe.
+Sou desenvolvedor web PHP. Atualmente focado em desenvolver aplicações utilizando está linguagem além de estar gradualmente aperfeiçoando meu front-end.
 
 Tecnologias: 
 
