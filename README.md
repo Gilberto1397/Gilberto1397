@@ -16,18 +16,11 @@ Tecnologias:
 
 Bibliotecas/Frameworks:
 
-![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![REACT ROUTER](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/-RTL-purple?style=for-the-badge&logo=react-testing-library&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express](https://img.shields.io/badge/-EXPRESS-green?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-lightgrey?style=for-the-badge&logo=jwt&logoColor=white)
-![MOCHA](https://img.shields.io/badge/-MOCHA-brown?style=for-the-badge&logo=mocha&logoColor=white)
-![CHAI](https://img.shields.io/badge/-CHAI-red?style=for-the-badge&logo=mocha&logoColor=white)
-![SINON](https://img.shields.io/badge/-SINON-green?style=for-the-badge&logo=mocha&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-sequelize-blue?style=for-the-badge&logo=sequelize&logoColor=white)
+![Jquery](https://img.shields.io/badge/-Jquery-informational?style=for-the-badge&logo=jquery&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white)
+![Eloquent ORM](https://img.shields.io/badge/-Eloquent%20ORM-red?style=for-the-badge&logo=eloquent-orm&logoColor=white)
+
 
 Ferramentas:
 
@@ -36,7 +29,6 @@ Ferramentas:
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 	
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-HEROKU-purple?style=for-the-badge&logo=Heroku&logoColor=white)
 
