@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gilberto1397.Gilberto1397&"  />
-</div>
-
-###
-
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
 ###
