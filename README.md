@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaa.maurodesouzaa&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gilberto1397.Gilberto1397&"  />
 </div>
 
 ###
@@ -41,11 +41,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouzaa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Gilberto1397&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Gilberto1397/Gilberto1397/output/snake.svg" alt="Snake animation" />
 
 ###
